@@ -26,20 +26,20 @@ My goal is continuous personal and professional growth through learning and stay
 
 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐒𝐊𝐈𝐋𝐋𝐒
 
-Testing Tools: Selenium WebDriver, Appium, TestNG, JMeter, Postman
-Test Management: JIRA, Zephyr 
-Programming Languages: Java
-Databases: SQL, DataGrip
-Platforms: Android, iOS, Web Applications
-Others: MobaXterm
+- Testing Tools: Selenium WebDriver, Appium, TestNG, JMeter, Postman
+- Test Management: JIRA, Zephyr 
+- Programming Languages: Java
+- Databases: SQL, DataGrip
+- Platforms: Android, iOS, Web Applications
+- Log analysis : MobaXterm
 
 
 𝐃𝐎𝐌𝐀𝐈𝐍 𝐊𝐍𝐎𝐖𝐋𝐄𝐃𝐆𝐄
 
-Core Banking Applications ( Microfinance )
-Digital Health
-Telco
-Social 
+- Core Banking Applications ( Microfinance )
+- Digital Health
+- Telco
+- Social 
 
 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒
 You can directly reach me through email for valuable services and assistance with projects
