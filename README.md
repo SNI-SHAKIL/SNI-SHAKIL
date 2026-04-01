@@ -1,48 +1,50 @@
 ![](https://media.licdn.com/dms/image/D5616AQGdL2IlrHrxkw/profile-displaybackgroundimage-shrink_350_1400/0/1690534723059?e=1695859200&v=beta&t=NUTwO8zoe-aIWs3CbQxmdA411HSg7BtxsONTdw5N008)
 
 ### 𝐋𝐈𝐓𝐓𝐋𝐄 𝐁𝐈𝐓 𝐀𝐁𝐎𝐔𝐓 𝐌𝐘𝐒𝐄𝐋𝐅
+
 This is Syed Naymul Islam Shakil, an energetic, ambitious and proactive Software Quality Assurance Engineer with 5+ years of experience Passionate about seeing ideas come to fruition Help leading organisations to deliver better quality product & flourish their business through my testing skills
 Eager to be challenged in order to grow and improve my abilities
-
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 𝐌𝐘 𝐂𝐀𝐑𝐄𝐄𝐑 𝐉𝐎𝐔𝐑𝐍𝐄𝐘
-- My work landed me a position with DocTime where I’m focused on the testing of Web and Apps
-- I did my BSc.Eng-Computer Science from BU
-- I am highly motivated and enjoy the challenge of demanding assignments and semester projects
-- I am an open-minded, friendly and self-motivated achiever with a sound and optimistic outlook on all things in life
-- My career objective is to ensure continuous personal development and professional performance through consistent learning and staying up to date with recent technologies
 
+My journey has brought me to BRAC IT, where I ensure the quality of web and mobile applications through manual and automation testing.  
+I hold a Bachelor’s degree in Computer Science, which built my technical and problem-solving skills. During my studies, I worked on challenging projects that enhanced my analytical abilities.  
+I am motivated, open-minded, and self-driven, thriving on complex tasks while maintaining a positive outlook.  
+My goal is continuous personal and professional growth through learning and staying updated with new technologies.  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 𝐒𝐊𝐈𝐋𝐋 𝐒𝐄𝐓 𝐓𝐇𝐀𝐓 𝐈 𝐏𝐎𝐒𝐒𝐄𝐒𝐒
-- Proficient in Regression and Smoke testing of Web and Apps
-- Experienced in all phases of SDLC & STLC
-- Expertise in preparing Test cases, Test Plans and Test Scenarios
-- Experienced in End to End Testing & Functional testing
-- Experience with test automation tools and frameworks including Selenium WebDriver & TestNG
-- Experienced in writing and executing SQL Queries
-- API Testing using Postman and knowledge of Load Testing using JMeter
-- Perfect communication skills, good team player, quick to learn modern technologies, detail oriented & can work independently when required
-
+- Proficient in manual and automation testing across Android, iOS, web, and progressive web applications (PWA).  
+- Experienced in regression, smoke, integration, and functional testing across various platforms.  
+- Skilled in preparing test cases, test plans.  
+- Expertise in (UAT) with direct client collaboration.  
+- Hands-on experience with test automation tools and frameworks.
+- Proficient in API testing using Postman and knowledgeable in performance testing using JMeter.  
+- Experienced in writing and executing SQL queries .  
+- Strong understanding of Agile Scrum methodology, actively participating in sprint planning, daily stand-ups, and retrospectives.  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐒𝐊𝐈𝐋𝐋𝐒
-- Programming Language: Java
-- Automation Testing: Selenium WebDriver
-- Testing Methods: Functional testing, Smoke testing, Regression testing, API testing
-- API Testing: Postman
-- Load Testing: JMeter
-- Databases: MySQL
-- Issue Tracking: Jira
 
+Testing Tools: Selenium WebDriver, Appium, TestNG, JMeter, Postman
+Test Management: JIRA, Zephyr 
+Programming Languages: Java
+Databases: SQL, DataGrip
+Platforms: Android, iOS, Web Applications
+Others: MobaXterm
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 𝐃𝐎𝐌𝐀𝐈𝐍 𝐊𝐍𝐎𝐖𝐋𝐄𝐃𝐆𝐄
-- Core Banking Applications ( Microfinance )
-- E-Commerce Apps
-- Telco
-- Digital Health
+
+Core Banking Applications ( Microfinance )
+Digital Health
+Telco
+Social 
+
+𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒
+You can directly reach me through email for valuable services and assistance with projects
+Email : shakilfci68@gmail.com   Mobile :  +8801677020544
 
 
 
