@@ -2,15 +2,19 @@
 
 ### 𝐋𝐈𝐓𝐓𝐋𝐄 𝐁𝐈𝐓 𝐀𝐁𝐎𝐔𝐓 𝐌𝐘𝐒𝐄𝐋𝐅
 
-This is Syed Naymul Islam Shakil, an energetic, ambitious and proactive Software Quality Assurance Engineer with 5+ years of experience Passionate about seeing ideas come to fruition Help leading organisations to deliver better quality product & flourish their business through my testing skills
-Eager to be challenged in order to grow and improve my abilities
+I am Syed Naymul Islam Shakil, a proactive and results-driven Software Quality Assurance Engineer with 5+ years of experience in ensuring software quality across web and mobile applications.
+
+I am passionate about delivering high-quality products by applying strong testing strategies and continuously improving processes. I thrive on solving complex problems and helping organizations build reliable and scalable software solutions.
 
 𝐌𝐘 𝐂𝐀𝐑𝐄𝐄𝐑 𝐉𝐎𝐔𝐑𝐍𝐄𝐘
 
-My journey has brought me to BRAC IT, where I ensure the quality of web and mobile applications through manual and automation testing.  
-I hold a Bachelor’s degree in Computer Science, which built my technical and problem-solving skills. During my studies, I worked on challenging projects that enhanced my analytical abilities.  
-I am motivated, open-minded, and self-driven, thriving on complex tasks while maintaining a positive outlook.  
-My goal is continuous personal and professional growth through learning and staying updated with new technologies.  
+Currently, I am working at BRAC IT, where I ensure the quality and performance of ERP-based web and mobile applications through both manual and automation testing.
+
+I hold a Bachelor’s degree in Computer Science and Engineering, which has strengthened my analytical thinking and problem-solving abilities.
+
+Throughout my career, I have worked in diverse domains including microfinance, digital health, telecom, and social platforms. I enjoy working in Agile environments, collaborating with cross-functional teams, and contributing to continuous improvement.
+
+I am highly motivated, self-driven, and always eager to learn new technologies and enhance my professional skills. 
 
 
 𝐒𝐊𝐈𝐋𝐋 𝐒𝐄𝐓 𝐓𝐇𝐀𝐓 𝐈 𝐏𝐎𝐒𝐒𝐄𝐒𝐒
