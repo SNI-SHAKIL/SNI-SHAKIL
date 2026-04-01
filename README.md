@@ -1,11 +1,8 @@
 ![](https://media.licdn.com/dms/image/D5616AQGdL2IlrHrxkw/profile-displaybackgroundimage-shrink_350_1400/0/1690534723059?e=1695859200&v=beta&t=NUTwO8zoe-aIWs3CbQxmdA411HSg7BtxsONTdw5N008)
 
 ### 𝐋𝐈𝐓𝐓𝐋𝐄 𝐁𝐈𝐓 𝐀𝐁𝐎𝐔𝐓 𝐌𝐘𝐒𝐄𝐋𝐅
-- This is Syed Naymul Islam Shakil, an energetic, ambitious and proactive Software Quality Assurance Engineer with 2+ years of experience
-- Passionate about seeing ideas come to fruition
-- 
-- Help leading organizations to deliver  better quality product & flourish their business through my testing skills
-- Eager to be challenged in order to grow and improve my abilities
+This is Syed Naymul Islam Shakil, an energetic, ambitious and proactive Software Quality Assurance Engineer with 5+ years of experience Passionate about seeing ideas come to fruition Help leading organisations to deliver better quality product & flourish their business through my testing skills
+Eager to be challenged in order to grow and improve my abilities
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -44,7 +41,7 @@
 𝐃𝐎𝐌𝐀𝐈𝐍 𝐊𝐍𝐎𝐖𝐋𝐄𝐃𝐆𝐄
 - Core Banking Applications ( Microfinance )
 - E-Commerce Apps
-- Food Delivery Apps
+- Telco
 - Digital Health
 
 
