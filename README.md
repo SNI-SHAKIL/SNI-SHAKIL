@@ -4,7 +4,6 @@
 
 This is Syed Naymul Islam Shakil, an energetic, ambitious and proactive Software Quality Assurance Engineer with 5+ years of experience Passionate about seeing ideas come to fruition Help leading organisations to deliver better quality product & flourish their business through my testing skills
 Eager to be challenged in order to grow and improve my abilities
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 𝐌𝐘 𝐂𝐀𝐑𝐄𝐄𝐑 𝐉𝐎𝐔𝐑𝐍𝐄𝐘
 
@@ -12,7 +11,7 @@ My journey has brought me to BRAC IT, where I ensure the quality of web and mobi
 I hold a Bachelor’s degree in Computer Science, which built my technical and problem-solving skills. During my studies, I worked on challenging projects that enhanced my analytical abilities.  
 I am motivated, open-minded, and self-driven, thriving on complex tasks while maintaining a positive outlook.  
 My goal is continuous personal and professional growth through learning and staying updated with new technologies.  
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 
 𝐒𝐊𝐈𝐋𝐋 𝐒𝐄𝐓 𝐓𝐇𝐀𝐓 𝐈 𝐏𝐎𝐒𝐒𝐄𝐒𝐒
 - Proficient in manual and automation testing across Android, iOS, web, and progressive web applications (PWA).  
@@ -23,7 +22,7 @@ My goal is continuous personal and professional growth through learning and stay
 - Proficient in API testing using Postman and knowledgeable in performance testing using JMeter.  
 - Experienced in writing and executing SQL queries .  
 - Strong understanding of Agile Scrum methodology, actively participating in sprint planning, daily stand-ups, and retrospectives.  
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 
 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐒𝐊𝐈𝐋𝐋𝐒
 
@@ -33,7 +32,7 @@ Programming Languages: Java
 Databases: SQL, DataGrip
 Platforms: Android, iOS, Web Applications
 Others: MobaXterm
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 
 𝐃𝐎𝐌𝐀𝐈𝐍 𝐊𝐍𝐎𝐖𝐋𝐄𝐃𝐆𝐄
 
